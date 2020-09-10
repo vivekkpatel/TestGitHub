@@ -8,6 +8,7 @@ namespace ConsoleAppTest
         {
             try
             {
+                Console.WriteLine("Hello World");
             }
             catch (Exception)
             {
