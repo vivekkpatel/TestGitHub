@@ -9,6 +9,7 @@ namespace ConsoleAppTest
             try
             {
                 Console.WriteLine("Hello World");
+                Console.WriteLine("This is new feature");
             }
             catch (Exception)
             {

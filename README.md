@@ -1,5 +1,5 @@
 # TestGitHub
-Sample Repo for Testing
+Sample Repo for Testing and Experimenting with Github features
 
 ## Overview
 Sample console app for Github Experimentation
